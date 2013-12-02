@@ -1,0 +1,21 @@
+{
+  "name": "cruise-state",
+  "version": "0.0.1",
+  "description": "Cruise state machine base constructor",
+  "keywords": [],
+  "author": "Calvin French-Owen <calvin@calv.info>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinfo/cruise-state.git"
+  },
+  "dependencies": {
+    "debug": "~0.7.4",
+    "bindAll": "~1.0.0",
+    "bind-all": "0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "lib/index"
+}
