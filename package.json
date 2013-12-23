@@ -11,7 +11,8 @@
   "dependencies": {
     "debug": "~0.7.4",
     "bindAll": "~1.0.0",
-    "bind-all": "0.0.2"
+    "bind-all": "0.0.2",
+    "jit": "~0.1.0"
   },
   "devDependencies": {
     "mocha": "*",
